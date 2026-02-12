@@ -1,0 +1,95 @@
+# Aaron Smith – Dancin - Krono Remix (Official Video)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.99] Get up on the floor,
+[00:02.82] Dancin' all night long,
+[00:04.96] Get up on the floor,
+[00:06.87] Dancin' till the break of dawn,
+[00:08.85] Get up on the floor,
+[00:11.06] Dancin' till the break of dawn,
+[00:13.00] Get up on the floor,
+[00:15.17] Dancin'
+[00:18.67] 
+[00:16.54] All the time,
+[00:18.00] My baby you on my mind,
+[00:20.17] And I don't know why,
+[00:21.95] Yeah but the feeling is fine,
+[00:24.22] Can't you see,
+[00:25.90] Honey you are for me,
+[00:28.25] Though it weren't meant to be
+[00:42.75] 
+[00:32.11] Dancin' in the moonlight
+[00:37.18] Gazing at the stars so bright,
+[00:40.42] Holding you until the sunrise
+[00:44.66] Sleeping until the midnight
+[00:58.16] 
+[00:47.88] Everytime when I look in your eyes
+[00:48.59] That smile was crying that you were mine
+[00:48.77] Do you know, your love is true I know,
+[00:48.90] You are the best thing that has happened to me
+[01:11.90] 
+[00:49.13] Get up on the floor,
+[00:50.71] Dancin' all night long,
+[00:52.71] Get up on the floor,
+[00:54.78] Dancin' till the break of dawn,
+[00:56.70] Get up on the floor,
+[00:58.65] Dancin' till the break of dawn,
+[01:00.75] Get up on the floor,
+[01:03.75] Dancin'
+[01:07.25] 
+[01:05.05] Dancin' is what to do,
+[01:06.88] Dancin's when I think of you,
+[01:09.23] Dancin's what clears my soul,
+[01:10.92] Dancin's what makes me hope
+[01:24.42] 
+[01:13.03] Dancin' is what to do,
+[01:14.98] Dancin's when I think of you,
+[01:17.03] Dancin's what cleard my soul,
+[01:19.00] Dancin's what makes me hope
+[01:32.50] 
+[01:21.32] Dancin' is what to do,
+[01:54.63] Dancin's when I think of you,
+[01:57.08] Dancin's what clears my soul,
+[01:59.07] Dancin's what makes me hope
+[02:12.57] 
+[02:01.25] Dancin' is what to do,
+[02:03.09] Dancin's when I think of you,
+[02:05.13] Dancin's what clears my soul,
+[02:06.97] Dancin's what makes me hope
+[02:20.47] 
+[02:09.27] Dancin' is what to do,
+[02:42.85] Dancin's when I think of you,
+[02:44.93] Dancin's what clears my soul,
+[02:46.95] Dancin's what makes me hope
+[03:00.45] 
+[02:49.14] Dancin' is what to do,
+[02:51.20] Dancin's when I think of you,
+[02:53.16] Dancin's what clears my soul,
+[02:55.17] Dancin's what makes me hope
+[03:08.67] 
+[02:57.71] Get up on the floor,
+[03:09.58] Dancin' all night long,
+[03:10.05] Get up on the floor,
+[03:10.81] Dancin' till the break of dawn,
+[03:11.23] Get up on the floor,
+[03:11.51] Dancin' till the break of dawn,
+[03:11.77] Get up on the floor,
+[03:12.09] Dancin'
+[03:15.59] 
+[03:12.69] Get up on the floor,
+[03:13.09] Dancin' all night long,
+[03:13.52] Get up on the floor,
+[03:13.83] Dancin' till the break of dawn,
+[03:14.08] Get up on the floor,
+[03:14.75] Dancin' till the break of dawn,
+[03:14.94] Get up on the floor,
+[03:15.10] Dancin'
+[03:18.60] 
+[03:15.49] (Oh) Dancin'
+[03:15.72] Dancin'
+[03:16.08] Dancin'
+[03:16.25] Dancin'
+[03:16.42] Dancin'
+```

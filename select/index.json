@@ -1,0 +1,304 @@
+{
+  "version": 1,
+  "base_track": "Dancin - Krono Remix (Official Video)",
+  "base_artist": "Aaron Smith",
+  "createdAt": "2026-02-12T00:03:28.605981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "She Dancin'",
+      "artist": "Juicy J",
+      "has_synced": true,
+      "path": "select/01_She_Dancin'_Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dancin'",
+      "artist": "Shannon",
+      "has_synced": false,
+      "path": "select/02_Dancin'_Shannon.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dancin' In the Moonlight",
+      "artist": "Chris Lane feat. Lauren Alaina",
+      "has_synced": true,
+      "path": "select/03_Dancin'_In_the_Moonlight_Chris_Lane_feat._Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dancin' In The Moonlight (feat. Lauren Alaina)",
+      "artist": "Chris Lane",
+      "has_synced": true,
+      "path": "select/04_Dancin'_In_The_Moonlight_(feat._Lauren_Alaina)_Chris_Lane.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hate Dancin'",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_Hate_Dancin'_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dancin' Away With My Heart",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/06_Dancin'_Away_With_My_Heart_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dancin' Cowboys",
+      "artist": "The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/07_Dancin'_Cowboys_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dancin’ In The Country",
+      "artist": "Tyler Hubbard",
+      "has_synced": true,
+      "path": "select/08_Dancin’_In_The_Country_Tyler_Hubbard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Still Dancin' With You",
+      "artist": "Wade Hayes",
+      "has_synced": true,
+      "path": "select/09_I'm_Still_Dancin'_With_You_Wade_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm Still Dancin' With You (Album Version)",
+      "artist": "Wade Hayes",
+      "has_synced": true,
+      "path": "select/10_I'm_Still_Dancin'_With_You_(Album_Version)_Wade_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dancin' In Circles",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/11_Dancin'_In_Circles_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dirty Dancin'",
+      "artist": "Ol' Dirty Bastard feat. Method Man",
+      "has_synced": false,
+      "path": "select/12_Dirty_Dancin'_Ol'_Dirty_Bastard_feat._Method_Man.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dancin' In the Ruins",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/13_Dancin'_In_the_Ruins_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dancin' In My Mind",
+      "artist": "Debbie Gibson",
+      "has_synced": true,
+      "path": "select/14_Dancin'_In_My_Mind_Debbie_Gibson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Freaky Dancin'",
+      "artist": "Cameo",
+      "has_synced": true,
+      "path": "select/15_Freaky_Dancin'_Cameo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Freaky Dancin' (Album Version)",
+      "artist": "Cameo",
+      "has_synced": true,
+      "path": "select/16_Freaky_Dancin'_(Album_Version)_Cameo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dancin' - KRONO remix",
+      "artist": "Aaron Smith",
+      "has_synced": true,
+      "path": "select/17_Dancin'_-_KRONO_remix_Aaron_Smith.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dancin (Krono Remix)",
+      "artist": "Aaron Smith",
+      "has_synced": true,
+      "path": "select/18_Dancin_(Krono_Remix)_Aaron_Smith.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dancin' (Krono Remix)",
+      "artist": "Aaron Smith",
+      "has_synced": true,
+      "path": "select/19_Dancin'_(Krono_Remix)_Aaron_Smith.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Dancin (Krono Remix)",
+      "artist": "Aaron Smith feat. Luvli",
+      "has_synced": true,
+      "path": "select/20_Dancin_(Krono_Remix)_Aaron_Smith_feat._Luvli.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Dancin (KRONO Remix)",
+      "artist": "Aaron Smith",
+      "has_synced": true,
+      "path": "select/21_Dancin_(KRONO_Remix)_Aaron_Smith.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Dancin - Krono Remix",
+      "artist": "Aaron Smith feat. Krono & Luvli",
+      "has_synced": true,
+      "path": "select/22_Dancin_-_Krono_Remix_Aaron_Smith_feat._Krono_&_Luvli.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Dancin (Krono Remix)",
+      "artist": "Aaron Smith, Krono, Luvli",
+      "has_synced": true,
+      "path": "select/23_Dancin_(Krono_Remix)_Aaron_Smith,_Krono,_Luvli.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Dancin (Krono Remix)",
+      "artist": "Aaron Smith, Luvli",
+      "has_synced": true,
+      "path": "select/24_Dancin_(Krono_Remix)_Aaron_Smith,_Luvli.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Dancin - Krono Remix",
+      "artist": "Aaron Smith",
+      "has_synced": true,
+      "path": "select/25_Dancin_-_Krono_Remix_Aaron_Smith.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Dancin (Krono Remix)",
+      "artist": "Aaron Smith",
+      "has_synced": true,
+      "path": "select/26_Dancin_(Krono_Remix)_Aaron_Smith.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Dancin - Krono Remix",
+      "artist": "Aaron Smith feat. Krono",
+      "has_synced": false,
+      "path": "select/27_Dancin_-_Krono_Remix_Aaron_Smith_feat._Krono.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Dancin (KRONO Remix)",
+      "artist": "Aaron Smith, KRON",
+      "has_synced": true,
+      "path": "select/28_Dancin_(KRONO_Remix)_Aaron_Smith,_KRON.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Dancin (Krono Remix)",
+      "artist": "Aaron Smith/Krono/Luvli",
+      "has_synced": true,
+      "path": "select/29_Dancin_(Krono_Remix)_Aaron_Smith_Krono_Luvli.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Dancin (Krono Remix)",
+      "artist": "Aaron Smith, Luvli",
+      "has_synced": true,
+      "path": "select/30_Dancin_(Krono_Remix)_Aaron_Smith,_Luvli.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Dancin (Krono remix)",
+      "artist": "Aaron Smith\u0000Luvli",
+      "has_synced": true,
+      "path": "select/31_Dancin_(Krono_remix)_Aaron_Smith\u0000Luvli.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Dancin (Krono Remix)",
+      "artist": "Aaron Smith, Krono, Luvli",
+      "has_synced": true,
+      "path": "select/32_Dancin_(Krono_Remix)_Aaron_Smith,_Krono,_Luvli.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Dancin (Krono Remix)",
+      "artist": "Aaron Smith",
+      "has_synced": true,
+      "path": "select/33_Dancin_(Krono_Remix)_Aaron_Smith.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Dancin (Krono Remix (Extended))",
+      "artist": "Aaron Smith",
+      "has_synced": true,
+      "path": "select/34_Dancin_(Krono_Remix_(Extended))_Aaron_Smith.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Dancin (Krono Remix (Instrumental))",
+      "artist": "Aaron Smith",
+      "has_synced": true,
+      "path": "select/35_Dancin_(Krono_Remix_(Instrumental))_Aaron_Smith.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Dancin (Krono Remix)",
+      "artist": "Aaron Smith",
+      "has_synced": true,
+      "path": "select/36_Dancin_(Krono_Remix)_Aaron_Smith.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dancin (Krono Remix)",
+      "artist": "Aaron Smith/Luvli/Krono",
+      "has_synced": false,
+      "path": "select/pl_01_Dancin_(Krono_Remix)_Aaron_Smith_Luvli_Krono.txt"
+    }
+  ]
+}
